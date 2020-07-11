@@ -5,7 +5,7 @@
 <li>📫  How to reach me:
 <ul>
 <li>EMAIL: Alex.nino@gmail.com
-    test
+<li>Test
  </li>
 </ul></li>
 
