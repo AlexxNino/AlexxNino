@@ -4,7 +4,7 @@
 <ul>
 <li>📫  How to reach me:
 <ul>
-<li>  Email:   Alex.nino@gmail.com
+<li>  Email: Alex.nino1234@gmail.com
 <li>Discord: Niño#3134
  </li>
 </ul></li>
