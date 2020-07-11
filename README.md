@@ -3,7 +3,9 @@
 - 🎓  I'm an aspiring software engineer
 <ul>
 <li>📫  How to reach me:
-<li>EMAIL: Alex.nino@gmail.com
+<ul>
+<li>EMAIL: Alex.nino@gmail.com</li>
+</ul></li>
 
 <!--
 **AlexxNino/AlexxNino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
