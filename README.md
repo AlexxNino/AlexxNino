@@ -4,8 +4,8 @@
 <ul>
 <li>📫  How to reach me:
 <ul>
-<li>EMAIL: Alex.nino@gmail.com
-<li>Test
+<li>EMAIL:   Alex.nino@gmail.com
+<li>Discord: Niño#3134
  </li>
 </ul></li>
 
