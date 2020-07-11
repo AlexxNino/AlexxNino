@@ -1,6 +1,6 @@
 ### HELLO WORLD! 👋
 
-- 🎓  I'm an aspiring software engineer
+- 🎓  I'm an aspiring software engineer majoring in computer science. Check out my work.
 <ul>
 <li>📫  How to reach me:
 <ul>
