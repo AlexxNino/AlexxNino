@@ -2,7 +2,7 @@
 
 - 🎓  I'm an aspiring software engineer
 <ul>
-<li>- 📫  How to reach me:
+<li>📫  How to reach me:
 <li>EMAIL: Alex.nino@gmail.com
 
 <!--
