@@ -1,8 +1,8 @@
 ### HELLO WORLD! 👋
 
 - 🎓  I'm an aspiring software engineer
-- 📫  How to reach me:
 <ul>
+<li>- 📫  How to reach me:
 <li>EMAIL: Alex.nino@gmail.com
 
 <!--
