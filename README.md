@@ -1,6 +1,6 @@
 ### HELLO WORLD! 👋
 
-![](test1.gif)
+![Alt text](test1.gif)
 
 <!--
 **AlexxNino/AlexxNino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
