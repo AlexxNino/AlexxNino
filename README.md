@@ -3,11 +3,11 @@
 ![Welcome to my github!](https://github.com/AlexxNino/AlexxNino/blob/master/GithubBanner.png)
 
 - 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
-<ul>
-<li>📫  How to reach me:
-<li>  Email: Alex.nino1234@gmail.com
-<li>  Discord: Niño#3134
-<li>  Skills: Python / C++ / SQL 
+
+- 📫  How to reach me:
+  -Email: Alex.nino1234@gmail.com
+  -Discord: Niño#3134
+
 
 
 <!--
