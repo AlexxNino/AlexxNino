@@ -1,13 +1,14 @@
 ### HELLO WORLD! 👋
+#### Welcome to my github!
+![Welcome to my github!](https://github.com/AlexxNino/AlexxNino/blob/master/GithubBanner.png)
 
 - 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
 <ul>
 <li>📫  How to reach me:
-<ul>
 <li>  Email: Alex.nino1234@gmail.com
-<li>Discord: Niño#3134
- </li>
-</ul></li>
+<li>  Discord: Niño#3134
+<li>  Skills: Python / C++ / SQL 
+
 
 <!--
 **AlexxNino/AlexxNino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
