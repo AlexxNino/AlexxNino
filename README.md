@@ -1,6 +1,6 @@
 ### HELLO WORLD! 👋
 #### Welcome to my github!
-![Welcome to my github!](https://github.com/AlexxNino/AlexxNino/blob/master/GithubBanner.png)
+![Welcome to my github!](https://github.com/AlexxNino/AlexxNino/blob/master/TestNewBanner.png)
 
 - 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
 
