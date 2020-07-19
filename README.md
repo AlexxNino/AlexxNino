@@ -5,8 +5,8 @@
 - 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
 
 - 📫  How to reach me:
-  -Email: Alex.nino1234@gmail.com
-  -Discord: Niño#3134
+  - Email: Alex.nino1234@gmail.com
+  - Discord: Niño#3134
 
 
 
