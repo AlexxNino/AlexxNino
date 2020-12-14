@@ -3,11 +3,12 @@
 ![GitHub metrics](https://metrics.lecoq.io/Alexxnino?base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
 
 
-- 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
+- 🎓  Bachelor's degree in Computer Science.
 
 - 📫  How to reach me:
   - Email: Alex.nino1234@gmail.com
   - Discord: Niño#3134
+  - Website: [Alexxnino.github.io](https://alexxnino.github.io./)
 
 
 
