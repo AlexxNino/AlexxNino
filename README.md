@@ -1,6 +1,7 @@
 ### HELLO WORLD! 👋
 #### Welcome to my github!
-![Welcome to my github!](https://github.com/AlexxNino/AlexxNino/blob/master/TestNewBanner.png)
+![GitHub metrics](https://metrics.lecoq.io/Alexxnino?base.activity=0&base.repositories=0&base.metadata=0&languages=1)
+
 
 - 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
 
@@ -12,7 +13,7 @@
 
 <!--
 **AlexxNino/AlexxNino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Welcome to my github!](https://github.com/AlexxNino/AlexxNino/blob/master/TestNewBanner.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
