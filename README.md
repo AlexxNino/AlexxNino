@@ -1,6 +1,6 @@
 ### HELLO WORLD! 👋
 #### Welcome to my github!
-![GitHub metrics](https://metrics.lecoq.io/Alexxnino?base.activity=0&base.repositories=0&base.metadata=0&languages=1)
+![GitHub metrics](https://metrics.lecoq.io/Alexxnino?base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
 
 
 - 🎓  I'm an aspiring Software Engineer majoring in Computer Science.
