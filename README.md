@@ -1,9 +1,10 @@
 ### HELLO WORLD! 👋
 #### Welcome to my github!
-![GitHub metrics](https://metrics.lecoq.io/Alexxnino?base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
 
 
 - 🎓  Bachelor's degree in Computer Science.
+- I'm currently learning iOS development using Swift.
+- I have worked with C++ , Python, Java , HTML , CSS , PHP , SQL , C# / Unity .
 
 - 📫  How to reach me:
   - Email: Alex.nino1234@gmail.com
