@@ -3,7 +3,6 @@
 
 
 - 🎓  Bachelor's degree in Computer Science.
-- I'm currently learning iOS development using Swift.
 - I have worked with C++ , Python, Java , HTML , CSS , PHP , SQL , C# / Unity .
 
 - 📫  How to reach me:
