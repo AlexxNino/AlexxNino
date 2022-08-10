@@ -1,7 +1,7 @@
 ### HELLO WORLD! 👋
-#### Welcome to my github!
+#### Welcome to my github profile!
 
-
+- Software Developer for General Motors
 - 🎓  Bachelor's degree in Computer Science.
 - I have worked with C++ , Python, Java , HTML , CSS , PHP , SQL , C# / Unity .
 
