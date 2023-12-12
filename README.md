@@ -7,7 +7,6 @@
 
 - 📫  How to reach me:
   - Email: Alex.nino1234@gmail.com
-  - Discord: Niño#3134
   - Website: [Alexxnino.github.io](https://alexxnino.github.io./)
 
 
