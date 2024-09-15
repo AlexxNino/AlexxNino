@@ -3,11 +3,10 @@
 
 - Software Developer for General Motors
 - 🎓  Bachelor's degree in Computer Science.
-- I have worked with C++ , Python, Java , HTML , CSS , PHP , SQL , C# / Unity .
 
 - 📫  How to reach me:
   - Email: Alex.nino1234@gmail.com
-  - Website: [Alexxnino.github.io](https://alexxnino.github.io./)
+  - Website: [UNDER RECONSTRUCTION]
 
 
 
