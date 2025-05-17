@@ -1,14 +1,6 @@
 ### HELLO WORLD! 👋
 #### Welcome to my github profile!
 
-- Software Developer for General Motors
-- 🎓  Bachelor's degree in Computer Science.
-
-- 📫  How to reach me:
-  - Email: Alex.nino1234@gmail.com
-  - Website: [UNDER RECONSTRUCTION]
-
-
 
 <!--
 **AlexxNino/AlexxNino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
